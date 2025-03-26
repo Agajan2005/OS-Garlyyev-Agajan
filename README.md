@@ -8,3 +8,4 @@
 4) Проверка покрытия:
    pytest tests/ --cov=app --cov-report=html
    
+автор Гарлыев Агаджан 12 группа 
